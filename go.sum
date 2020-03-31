@@ -1,6 +1,4 @@
-github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1 h1:PJPDf8OUfOK1bb/NeTKd4f1QXZItOX389VN3B6qC8ro=
-github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
-github.com/kardianos/service v0.0.0-20180320115954-615a14ed7509 h1:h9KSKIrIU4ZakEOh77aRY9kV/qukcEBf9S/sar2D1Yc=
-github.com/kardianos/service v0.0.0-20180320115954-615a14ed7509/go.mod h1:10UU/bEkzh2iEN6aYzbevY7J6p03KO5siTxQWXMEerg=
-golang.org/x/sys v0.0.0-20180425194835-bb9c189858d9 h1:+wWbjU2lIhyVuf3l5jcSMKOCokMwx1eP/lpVWk1Ox0M=
-golang.org/x/sys v0.0.0-20180425194835-bb9c189858d9/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+github.com/kardianos/service v1.0.1-0.20191211031725-3c356ae54c8a h1:T/nL7taPRFDwzB7c31FQTuykulaA11ERY3K6NcoQ/Bg=
+github.com/kardianos/service v1.0.1-0.20191211031725-3c356ae54c8a/go.mod h1:8CzDhVuCuugtsHyZoTvsOBuvonN/UDBvl0kH+BUxvbo=
+golang.org/x/sys v0.0.0-20190204203706-41f3e6584952 h1:FDfvYgoVsA7TTZSbgiqjAbfPbK47CNHdWl3h/PJtii0=
+golang.org/x/sys v0.0.0-20190204203706-41f3e6584952/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
